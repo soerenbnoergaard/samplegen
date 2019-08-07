@@ -10,3 +10,4 @@ sample_t = collections.namedtuple("sample_t", [
 ])
 
 from . import bitwig
+from . import loop
